@@ -31,6 +31,9 @@ This bot is built with the following dependencies:
 - `discord.js`: A powerful library for interacting with the Discord API.
 - `dotenv`: A zero-dependency module that loads environment variables from a `.env` file into `process.env`.
 
+## Example Response
+![image](https://github.com/Larssies/Active-Developer-Bot/assets/81554085/ebdec7ee-2e90-4379-a352-7c49cc4ea2da)
+
 ## Credits
 
 This bot was created by [Larssies](https://larssies.com). 
